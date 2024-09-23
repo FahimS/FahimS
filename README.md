@@ -27,7 +27,7 @@ Skills: Database | MySQL | SQL Server | PostgreSQL
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/FahimS/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/FahimS)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=FahimS)  
 
