@@ -1,6 +1,6 @@
 ![I am Software Engineer (Database)](https://media.licdn.com/dms/image/v2/D5616AQH0bWQuQ5zl2A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1716446752665?e=1732752000&v=beta&t=VSaOi6ZyomTjiU-q27XnDU3n9gNVjRQ28Xk0IVOVnlg)
-## Hi there 👋, i am Fahim Shahriar
-### I am Software Engineer (Database)
+## Hi there 👋, I am Fahim Shahriar
+###Software Engineer (Database)
 
 
 I am currently working as an Implementation and Support Engineer at iBOS Limited, an Akij Company, where I leverage a diverse skill set to drive successful ERP implementations and deliver robust database support. My experience spans ERP implementation, database management, SQL queries, technical support, software training, manual testing, and business requirement analysis.
